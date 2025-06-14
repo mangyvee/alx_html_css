@@ -1,0 +1,11 @@
+/* styles.css: Specific styles for this page */
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  color: #0077cc;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+}
